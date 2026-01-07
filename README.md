@@ -43,5 +43,3 @@ This dataset contains thousands of images covering multiple skin disease categor
 SOURCES:[MultipleSkinDiseaseDetection](https://www.kaggle.com/datasets/pritpal2873/multiple-skin-disease-detection-and-classification)
 
 ---
-
-ightweight version in TensorFlow Lite (skin_disease_model.tflite) for future mobile integration.
